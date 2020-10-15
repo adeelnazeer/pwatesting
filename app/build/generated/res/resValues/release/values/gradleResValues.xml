@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="appName" translatable="false">partners in every period of your life</string>
+    <string name="assetStatements" translatable="false">[{ \"relation\": [\"delegate_permission/common.handle_all_urls\"],\"target\": {\"namespace\": \"web\", \"site\": \"https://pwatesting.vercel.app\"}}]</string>
+
+    <color name="backgroundColor">#FC637F</color>
+    <color name="colorPrimary">#FC637F</color>
+
+    <bool name="enableNotification">false</bool>
+    <bool name="enableSiteSettingsShortcut">true</bool>
+
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="generatorApp" translatable="false">bubblewrap-cli</string>
+    <string name="hostName" translatable="false">pwatesting.vercel.app</string>
+    <string name="launchUrl" translatable="false">https://pwatesting.vercel.app/aboutus</string>
+    <string name="launcherName" translatable="false">Eluring</string>
+
+    <color name="navigationColor">#000000</color>
+    <color name="navigationColorDark">#000000</color>
+    <color name="navigationDividerColor">#000000</color>
+    <color name="navigationDividerColorDark">#000000</color>
+
+    <string name="providerAuthority" translatable="false">app.vercel.pwatesting.twa.fileprovider</string>
+
+    <integer name="splashScreenFadeOutDuration">300</integer>
+
+    <string name="webManifestUrl" translatable="false">https://pwatesting.vercel.app/manifest.json</string>
+
+</resources>

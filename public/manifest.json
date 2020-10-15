@@ -18,7 +18,7 @@
   ],
   "start_url": "/aboutus",
   "background_color": "#fc637f",
-  "display": "standalone",
+  "display": "Fullscreen",
   "scope": "/",
   "theme_color": "#fc637f"
 }

@@ -1,0 +1,4 @@
+#Wed Sep 30 17:23:57 PDT 2020
+base.0=F\:\\reactBoiler\\hamza\\pwatesting\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

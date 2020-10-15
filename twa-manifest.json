@@ -1,0 +1,32 @@
+{
+  "packageId": "app.vercel.pwatesting.twa",
+  "host": "pwatesting.vercel.app",
+  "name": "partners in every period of your life",
+  "launcherName": "Eluring",
+  "display": "standalone",
+  "themeColor": "#FC637F",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FC637F",
+  "enableNotifications": false,
+  "startUrl": "/aboutus",
+  "iconUrl": "https://pwatesting.vercel.app/assets/images/eulring-512.png",
+  "maskableIconUrl": "https://pwatesting.vercel.app/assets/images/eulring-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://pwatesting.vercel.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "appVersion": "1"
+}
