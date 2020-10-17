@@ -1,5 +1,12 @@
-[{
+[
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "app.vercel.pwatesting.twa",
-                 "sha256_cert_fingerprints": ["8A:F2:9A:24:DE:27:99:F9:E8:C8:77:D0:5C:8B:53:A9:42:68:49:70:38:2E:6E:43:EB:95:ED:8B:08:86:E6:0F"] }
-  }]
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.vercel.pwatesting.twa",
+      "sha256_cert_fingerprints": [
+        "F0:0E:94:A2:6D:09:84:14:54:5C:E0:FF:F9:D9:29:20:50:81:7C:48:E0:D1:AD:E2:9D:29:55:5E:77:46:03:6D"
+      ]
+    }
+  }
+]
